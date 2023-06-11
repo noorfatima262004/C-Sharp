@@ -1,0 +1,14 @@
+E:\c#\challange2 lab6\challange2 lab6\bin\Debug\challange2 lab6.exe.config
+E:\c#\challange2 lab6\challange2 lab6\bin\Debug\challange2 lab6.exe
+E:\c#\challange2 lab6\challange2 lab6\bin\Debug\challange2 lab6.pdb
+E:\c#\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.csproj.AssemblyReference.cache
+E:\c#\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.csproj.CoreCompileInputs.cache
+E:\c#\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.exe
+E:\c#\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.pdb
+E:\C Sharp #\lab 5\challange2 lab6\challange2 lab6\bin\Debug\challange2 lab6.exe.config
+E:\C Sharp #\lab 5\challange2 lab6\challange2 lab6\bin\Debug\challange2 lab6.exe
+E:\C Sharp #\lab 5\challange2 lab6\challange2 lab6\bin\Debug\challange2 lab6.pdb
+E:\C Sharp #\lab 5\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.csproj.AssemblyReference.cache
+E:\C Sharp #\lab 5\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.csproj.CoreCompileInputs.cache
+E:\C Sharp #\lab 5\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.exe
+E:\C Sharp #\lab 5\challange2 lab6\challange2 lab6\obj\Debug\challange2 lab6.pdb

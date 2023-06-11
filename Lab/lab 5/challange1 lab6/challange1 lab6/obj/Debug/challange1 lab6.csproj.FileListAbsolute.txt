@@ -1,0 +1,7 @@
+E:\c#\challange1 lab6\challange1 lab6\bin\Debug\challange1 lab6.exe.config
+E:\c#\challange1 lab6\challange1 lab6\bin\Debug\challange1 lab6.exe
+E:\c#\challange1 lab6\challange1 lab6\bin\Debug\challange1 lab6.pdb
+E:\c#\challange1 lab6\challange1 lab6\obj\Debug\challange1 lab6.csproj.AssemblyReference.cache
+E:\c#\challange1 lab6\challange1 lab6\obj\Debug\challange1 lab6.csproj.CoreCompileInputs.cache
+E:\c#\challange1 lab6\challange1 lab6\obj\Debug\challange1 lab6.exe
+E:\c#\challange1 lab6\challange1 lab6\obj\Debug\challange1 lab6.pdb
